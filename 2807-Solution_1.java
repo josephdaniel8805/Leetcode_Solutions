@@ -8,7 +8,6 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-import java.util.*;
 import java.math.BigInteger;
 class Solution {
     public class ListNode {
