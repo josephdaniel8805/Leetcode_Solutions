@@ -1,4 +1,5 @@
 class Solution {
+    //Brute Force Approach
     public int[] minOperations(String boxes) {
         int n=boxes.length();
         int ans[]=new int[n];
