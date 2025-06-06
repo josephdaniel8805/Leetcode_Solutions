@@ -1,4 +1,5 @@
 class Solution {
+    //StringBuilder Approach
     public String truncateSentence(String s, int k) {
         String ans[]=s.split(" ");
         StringBuilder str=new StringBuilder();
