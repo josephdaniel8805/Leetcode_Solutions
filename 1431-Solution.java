@@ -1,5 +1,4 @@
 import java.util.*;
-
 class Solution {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         ArrayList<Boolean> result= new ArrayList<>();
