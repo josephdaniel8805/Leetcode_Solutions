@@ -1,6 +1,5 @@
 import java.util.*;
 class Solution {
-    //Using DFS
     private void dfs(int curr,int n,List<Integer> result){
         if(curr>n) return;
         result.add(curr);
