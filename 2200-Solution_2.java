@@ -1,6 +1,6 @@
 import java.util.*;
 class Solution {
-    //Optimal Approach
+    //Optimal Approach 
     public List<Integer> findKDistantIndices(int[] nums, int key, int k) {
         int n=nums.length;
         ArrayList<Integer> list = new ArrayList<>();
