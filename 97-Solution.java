@@ -1,4 +1,4 @@
-public class Solution {
+class Solution {
     public boolean isInterleave(String s1,String s2,String s3){
         int i1=0,i2=0,i3=0;
         Boolean dp[][]=new Boolean[s1.length()][s2.length()];
