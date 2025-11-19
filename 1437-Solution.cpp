@@ -16,7 +16,7 @@ public:
                     prev1=ind;
                     if(prev1-prev-1<k){
                         return false;
-                    }
+                    } 
                 }
             }
         }
