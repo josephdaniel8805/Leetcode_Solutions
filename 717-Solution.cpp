@@ -1,5 +1,5 @@
 class Solution {
-public:
+public: 
     bool isOneBitCharacter(vector<int>& bits) {
         if(bits.size()==1) return true;
         int first=0,second=1;
