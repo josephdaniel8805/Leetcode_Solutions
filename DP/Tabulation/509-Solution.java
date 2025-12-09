@@ -1,4 +1,4 @@
-package DP.Memoization.Tabulation;
+package DP.Tabulation;
 
 class Solution {
     public int fib(int n) {
