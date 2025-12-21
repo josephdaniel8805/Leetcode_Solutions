@@ -13,7 +13,6 @@ class Solution {
                 max=map.getOrDefault(ch,0L);
             }
         }
-        long ans=0;
         for(Map.Entry<Character,Long> entry : map.entrySet()){
             max=Math.max(max,entry.getValue());
         }
