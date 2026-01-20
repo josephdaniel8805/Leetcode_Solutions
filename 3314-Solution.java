@@ -15,5 +15,5 @@ class Solution {
             ans[ind]=or;
         }
         return ans;
-    }
+    } 
 }
